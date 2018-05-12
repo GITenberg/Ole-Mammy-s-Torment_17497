@@ -1,0 +1,49 @@
+_repo: Ole-Mammy-s-Torment_17497
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Johnston, Mary G.
+    birthdate: &id001 1872
+    gutenberg_agent_id: '38423'
+    url: http://www.gutenberg.org/2009/agents/38423
+  - agent_name: Sacker, Amy M. (Amy Maria)
+    birthdate: *id001
+    deathdate: 1965
+    gutenberg_agent_id: '9242'
+    url: http://www.gutenberg.org/2009/agents/9242
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: Images of the original pages are available through the Electronic Text
+  Collection of the Kentuckiana Digital Library at http://kdl.kyvl.org/cgi/t/text/text-idx?c=kyetexts;cc=kyetexts;xc=1&amp;idno=B92-247-31689486
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Clergy -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcsh 'Grandparents as parents -- Juvenile fiction'
+- !lcc 'PZ'
+title: Ole Mammy's Torment
+url: http://www.gutenberg.org/ebooks/17497
