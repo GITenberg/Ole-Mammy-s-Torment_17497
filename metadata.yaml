@@ -3,11 +3,11 @@ _version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Johnston, Mary G.
-    birthdate: &id001 1872
+    birthdate: 1872
     gutenberg_agent_id: '38423'
     url: http://www.gutenberg.org/2009/agents/38423
   - agent_name: Sacker, Amy M. (Amy Maria)
-    birthdate: *id001
+    birthdate: 1872
     deathdate: 1965
     gutenberg_agent_id: '9242'
     url: http://www.gutenberg.org/2009/agents/9242
@@ -27,6 +27,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: Images of the original pages are available through the Electronic Text
   Collection of the Kentuckiana Digital Library at http://kdl.kyvl.org/cgi/t/text/text-idx?c=kyetexts;cc=kyetexts;xc=1&amp;idno=B92-247-31689486
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17497#Ole-Mammy-s-Torment
 gutenberg_issued: '2006-01-12'
 gutenberg_type: Text
 identifiers:
